@@ -1,4 +1,4 @@
-phone = input("Enter Phone number:")
+phone = input("Enter Phone number:)"
 digits_mapping = {
     "1": "One",
     "2": "Two",

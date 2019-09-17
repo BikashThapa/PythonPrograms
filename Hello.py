@@ -1,3 +1,5 @@
+#Guess Game This is
+print("Guess 3 times to win it...if not we are sorry")
 secret_number = 9
 guess_count = 0
 guess_limit = 3
